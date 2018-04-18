@@ -6,4 +6,3 @@ def absolute(num)
     end
 end
 
-p absolute(500)

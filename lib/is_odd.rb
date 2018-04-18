@@ -6,4 +6,3 @@ def is_odd(num)
     end
 end
 
-p is_odd(6)

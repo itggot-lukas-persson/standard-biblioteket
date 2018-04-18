@@ -7,4 +7,3 @@ def is_even(num)
     end
 end
 
-p  is_even(6)

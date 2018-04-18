@@ -7,4 +7,3 @@ def between(num1, num2, num3)
 end
 
 
-p between(1, 5, 100)
