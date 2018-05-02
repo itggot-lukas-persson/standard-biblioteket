@@ -1,3 +1,7 @@
+# Tar tre tal som input och ger det största av dem som output
+
+
+
 def max_of_three(num1, num2, num3)
     biggest = 0
     

@@ -1,3 +1,7 @@
+# Tar fyra tal som input och ger det minsta av dem som output
+
+
+
 def min_of_four(num1, num2, num3, num4)
     
     smallest1 = 0

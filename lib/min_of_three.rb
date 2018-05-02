@@ -1,3 +1,7 @@
+# Tar tre tal som input och ger det minsta av dem som output
+
+
+
 def min_of_three(num1, num2, num3)
     smallest = 0
     

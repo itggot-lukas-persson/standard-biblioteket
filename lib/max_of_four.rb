@@ -1,3 +1,7 @@
+# Tar tre fyra som input och ger det största av dem som output
+
+
+
 def max_of_four(num1, num2, num3, num4)
     
     biggest1 = 0
